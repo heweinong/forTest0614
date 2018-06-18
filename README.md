@@ -6,5 +6,4 @@ The best Deploy Tool for Salesforce
 npm install
 npm install bower -g
 cd src
-bower install
 ```
